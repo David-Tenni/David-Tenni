@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @David-Tenni
-- 👀 I’m interested in Web Applications, Desktop Apps, Mobile Apps, and Game Development. 
+:D
